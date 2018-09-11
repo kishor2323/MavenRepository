@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="KishorTesting">
+<test name="Groups">
+	          <classes>
+ 
+
+		  <class name="Mavenkishor.kishortest.Log4J"></class>
+	  
+	       </classes>	
+	      </test>
+           </suite>
